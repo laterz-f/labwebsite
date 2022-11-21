@@ -21,3 +21,11 @@ programmer:
 mascot:
   icon: fas fa-dog
   text: Mascot
+  
+wet lab:
+  icon: fas fa-vial
+  text: Wet
+  
+computational:
+  icon: fas fa-code
+  text: Computational
