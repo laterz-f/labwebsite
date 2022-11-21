@@ -6,6 +6,7 @@
 @import "mixins";
 
 p {
+  font-family: $serif;
   margin: 20px 0;
   @include trim-v-margins;
   text-align: justify;
