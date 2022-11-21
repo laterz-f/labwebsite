@@ -2,7 +2,7 @@
 name: Francesco Vittoria
 image: images/member.jpg
 description: PhD Student
-role: wet lab
+role: phd wet
 aliases:
   - F. Vittoria
   - F Vittoria
