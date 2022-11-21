@@ -2,27 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Welcome to Ostuni lab!
 
 We are a <b>multidisciplinary group</b> that combines <b>high-throughput and single-cell genomics</b>, <b>bioinformatics</b>, <b>genome engineering</b> and <b>functional studies</b> to dissect principles of immune cell development and functions. Building on relevant mouse models and uniquely available clinical samples, we aim to decipher the complex networks of signaling pathways, transcription factors, chromatin regulators and non-coding RNAs that control <b>gene expression in the innate immune system</b>.
-
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
-{:.center}
 
 {% include section.html full=true %}
 
@@ -33,8 +15,8 @@ We are a <b>multidisciplinary group</b> that combines <b>high-throughput and sin
 # Highlights
 
 {% capture text %}
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include link.html
