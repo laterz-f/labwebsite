@@ -2,29 +2,34 @@ pi:
   icon: fas fa-microscope
   text: Principal Investigator
 
-postdoc:
-  icon: fas fa-glasses
+postdoc wet:
+  icon: fas fa-vial
   text: Postdoctoral Researcher
+  
+postdoc computational:
+  icon: fas fa-code
+  text: Senior bioinformatician
 
-phd:
-  icon: fas fa-graduation-cap
+phd wet:
+  icon: fas fa-vial
+  text: PhD Student
+  
+phd computational:
+  icon: fas fa-code
   text: PhD Student
 
-undergrad:
-  icon: fas fa-user-graduate
+undergrad wet:
+  icon: fas fa-vial
   text: Undergraduate Student
-
-programmer:
-  icon: fas fa-code
-  text: Programmer
-
-mascot:
-  icon: fas fa-dog
-  text: Mascot
+  
+assistant wet:
+  icon: fas fa-vial
+  text: Research Assistant
   
 wet lab:
   icon: fas fa-vial
   text: Wet
+  
   
 computational:
   icon: fas fa-code
