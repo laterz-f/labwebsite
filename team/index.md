@@ -14,12 +14,18 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html %}
 
+# <i class="fas fa-users"></i>Principal investigator
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: pi"
 %}
+{:.center}
+
+
+{% include section.html %}
+# <i class="fas fa-users"></i>Lab members
 {%
   include list.html
   data="members"
@@ -34,22 +40,15 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# <i class="fas fa-users"></i>Alumni
 
 {% include section.html %}
 
-## Join
+## Join us!
 
-#### Post Dogtoral Researcher
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+We are constantly looking for energetic and enthusiastic individuals at all career stages. Unsolicited applications are always welcome!
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
