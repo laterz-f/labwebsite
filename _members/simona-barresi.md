@@ -2,7 +2,7 @@
 name: Simona Barresi
 image: images/member.jpg
 description: Research Assistant
-role: wet lab
+role: assistant wet
 aliases:
   - S. Barresi
   - S Barresi
