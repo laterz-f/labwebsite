@@ -33,12 +33,6 @@ Meet the members of the Genomics of the Immune System Unit! Our lab is part of t
   include list.html
   data="members"
   component="portrait"
-  filters="role: postdoc wet"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: postdoc computational"
 %}
 {%
