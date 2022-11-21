@@ -2,7 +2,7 @@
 name: Vincenzo Cuzzola
 image: images/member.jpg
 description: PhD Student
-role: wet lab
+role: phd wet
 aliases:
   - V. Cuzzola
   - V Cuzzola
