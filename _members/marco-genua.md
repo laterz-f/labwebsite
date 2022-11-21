@@ -2,7 +2,7 @@
 name: Marco Genua
 image: images/member.jpg
 description: Post-doctoral Fellow
-role: wet lab
+role: postdoc wet
 aliases:
   - M. Genua
   - M Genua
