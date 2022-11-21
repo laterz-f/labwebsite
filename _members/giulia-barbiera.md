@@ -2,14 +2,14 @@
 name: Giulia Barbiera
 image: images/member.jpg
 description: Senior bioinformatician
-role: computational
+role: postdoc computational
 aliases:
   - G. Barbiera
   - G Barbiera
 links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+  home-page: /
+  email: /
+  github: /
 ---
 
 add bio
