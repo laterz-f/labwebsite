@@ -27,13 +27,13 @@ Our lab is the Genomics of the Immune System Unit, which belongs to the San Raff
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: wet lab"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: computational"
 %}
 {:.center}
 
