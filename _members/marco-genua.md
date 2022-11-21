@@ -7,8 +7,8 @@ aliases:
   - M. Genua
   - M Genua
 links:
-  home-page: felixcited.com
-  email: felix@cited.com
-  twitter: felixcited
+  home-page: /
+  email: /
+  twitter: /
 ---
 add bio
