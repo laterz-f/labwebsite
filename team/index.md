@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Our lab is the Genomics of the Immune System Unit, which belongs to the San Raffaele Telethon Institute for Gene Therapy (SR-Tiget).
+Meet the members of the Genomics of the Immune System Unit! Our lab is part of the San Raffaele Telethon Institute for Gene Therapy (SR-Tiget).
 
 {% include section.html %}
 
@@ -27,13 +27,43 @@ Our lab is the Genomics of the Immune System Unit, which belongs to the San Raff
   include list.html
   data="members"
   component="portrait"
-  filters="role: wet lab"
+  filters="role: postdoc wet"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: computational"
+  filters="role: postdoc wet"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: postdoc computational"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: assistant wet"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phd wet"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phd computational"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad wet"
 %}
 {:.center}
 
