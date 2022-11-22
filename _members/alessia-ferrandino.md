@@ -1,6 +1,6 @@
 ---
 name: Alessia Ferrandino
-image: images/member.jpg
+image: images/af.jpeg
 description: Master Student
 role: undergrad wet
 aliases:
