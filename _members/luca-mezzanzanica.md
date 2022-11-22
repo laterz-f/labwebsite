@@ -1,6 +1,6 @@
 ---
 name: Luca Mezzanzanica
-image: images/member.jpg
+image: images/lm.jpeg
 description: PhD Student
 role: phd wet
 aliases:
