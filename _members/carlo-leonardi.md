@@ -1,6 +1,6 @@
 ---
 name: Carlo Leonardi
-image: images/member.jpg
+image: images/cl.jpg
 description: PhD Student
 role: phd computational
 aliases:
