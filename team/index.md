@@ -11,7 +11,7 @@ Meet the members of the Genomics of the Immune System Unit! Our lab is part of t
 
 {% include section.html %}
 
-# <i class="fas fa-users"></i>Principal investigator
+# Principal investigator
 {%
   include list.html
   data="members"
@@ -22,7 +22,7 @@ Meet the members of the Genomics of the Immune System Unit! Our lab is part of t
 
 
 {% include section.html %}
-# <i class="fas fa-users"></i>Lab members
+# Current Lab members
 {%
   include list.html
   data="members"
@@ -63,7 +63,7 @@ Meet the members of the Genomics of the Immune System Unit! Our lab is part of t
 
 {% include section.html %}
 
-# <i class="fas fa-users"></i>Alumni
+# Alumni
 
 <br>
 
