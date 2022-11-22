@@ -1,6 +1,6 @@
 ---
 name: Giulia Barbiera
-image: images/member.jpg
+image: images/gb.jpeg
 description: Senior bioinformatician
 role: postdoc computational
 aliases:
