@@ -7,9 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Meet the members of the Genomics of the Immune System Unit!
-{:.center}
-<br>
+Meet the members of the Genomics of the Immune System Unit!\
 Our lab is part of the San Raffaele Telethon Institute for Gene Therapy (SR-Tiget).
 {:.center}
 
@@ -87,7 +85,7 @@ Our lab is part of the San Raffaele Telethon Institute for Gene Therapy (SR-Tige
 
 ## Join us!
 
-We are constantly looking for energetic and enthusiastic individuals at all career stages.
+We are constantly looking for energetic and enthusiastic individuals at all career stages.\
 Unsolicited applications are always welcome!
 {:.center}
 
