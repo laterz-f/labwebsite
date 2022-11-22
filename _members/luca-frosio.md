@@ -1,6 +1,6 @@
 ---
 name: Luca Frosio
-image: images/member.jpg
+image: images/lf.jpeg
 description: Master Student
 role: undergrad wet
 aliases:
