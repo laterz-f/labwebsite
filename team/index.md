@@ -9,6 +9,7 @@ nav:
 
 Meet the members of the Genomics of the Immune System Unit! 
 Our lab is part of the San Raffaele Telethon Institute for Gene Therapy (SR-Tiget).
+{:.center}
 
 {% include section.html %}
 
@@ -66,8 +67,6 @@ Our lab is part of the San Raffaele Telethon Institute for Gene Therapy (SR-Tige
 
 # Alumni
 
-<br>
-
 | Alumni | Position in the lab | Current position |
 | :------------- |:-------------| :-----------|
 | Elisa Montaldo    | Postdoctoral Researcher  | Staff scientist at SR-Tiget Process Development Lab |
@@ -77,7 +76,7 @@ Our lab is part of the San Raffaele Telethon Institute for Gene Therapy (SR-Tige
 | Dario Iodice | Research Fellow | ... |
 | Valentina Bianchessi | PhD Student | ... |
 | Carla Cantaffa | ... | ... |
-{:.center}
+
 {% include section.html 
    background="images/background.jpg"
    dark=true
@@ -86,8 +85,9 @@ Our lab is part of the San Raffaele Telethon Institute for Gene Therapy (SR-Tige
 
 ## Join us!
 
-We are constantly looking for energetic and enthusiastic individuals at all career stages.{:.center}
-Unsolicited applications are always welcome!{:.center}
+We are constantly looking for energetic and enthusiastic individuals at all career stages.
+Unsolicited applications are always welcome!
+{:.center}
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
