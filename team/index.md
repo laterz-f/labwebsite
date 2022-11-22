@@ -77,11 +77,16 @@ Meet the members of the Genomics of the Immune System Unit! Our lab is part of t
 | Valentina Bianchessi | PhD Student | ... |
 | Carla Cantaffa | ... | ... |
 
-{% include section.html %}
+{% include section.html 
+   background="images/background.jpg"
+   dark=true
+   full=true
+ %}
 
 ## Join us!
 
-We are constantly looking for energetic and enthusiastic individuals at all career stages. Unsolicited applications are always welcome!
+We are constantly looking for energetic and enthusiastic individuals at all career stages. 
+Unsolicited applications are always welcome!
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
