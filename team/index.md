@@ -65,6 +65,18 @@ Meet the members of the Genomics of the Immune System Unit! Our lab is part of t
 
 # <i class="fas fa-users"></i>Alumni
 
+<br>
+
+| Alumni | Role | Now |
+| :------------- |:-------------| :-----------|
+| Elisa Montaldo    | Postdoctoral Researcher  | Staff scientist at SR-Tiget Process Development Lab |
+| Eleonora Lusito    | Postdoctoral Researcher | ... |
+| Francesco Cilenti	   | PhD Student | ... |
+| Mattia Barilaro | Research fellow | ... |
+| Dario Iodice | Research Fellow | ... |
+| Valentina Bianchessi | PhD Student | ... |
+| Carla Cantaffa | ... | ... |
+
 {% include section.html %}
 
 ## Join us!
