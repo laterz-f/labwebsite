@@ -68,7 +68,7 @@ Our lab is part of the San Raffaele Telethon Institute for Gene Therapy (SR-Tige
 
 <br>
 
-| Alumni | Role | Now |
+| Alumni | Position in the lab | Current position |
 | :------------- |:-------------| :-----------|
 | Elisa Montaldo    | Postdoctoral Researcher  | Staff scientist at SR-Tiget Process Development Lab |
 | Eleonora Lusito    | Postdoctoral Researcher | ... |
