@@ -18,7 +18,7 @@
     - 
     
 - id: doi:10.1084/jem.20211121
-  
+  image: 
   tags:
     - 
 
@@ -40,18 +40,22 @@
     - 
     
 - id: doi:10.1038/s41467-021-22535-z
+  image: https://s3.amazonaws.com/thirdiron-assets/images/covers/2041-1723.png
   tags:
     - 
    
 - id: doi:10.1111/imr.12944
+  image: https://onlinelibrary.wiley.com/cms/asset/41929a07-40c4-4309-b509-745883e5a35c/imr.v300.1.cover.gif
   tags:
     - 
     
 - id: doi:10.1016/j.cell.2020.10.003
+  image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d43e6:rev:1637007920164-1489:pii:S0092867419X00252/cover.tif.jpg
   tags:
     - 
 
 - id: doi:10.1038/s41586-019-1620-6
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41586/574/7777
   tags:
     - 
     
