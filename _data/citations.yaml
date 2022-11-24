@@ -132,9 +132,10 @@
   publisher: Journal of Experimental Medicine
   date: '2022-03-09'
   link: https://doi.org/gq97d4
+  image: null
   tags:
   - null
-  _cache: d0e9a5a53a919dd4c140d1cc14e7f85d43c6309a2708c8e80f75db0e54214842
+  _cache: 1b4de7dad21aa2d0f1de5478716d5e613ad78453a85db2e5fdc347a3c3a2f2f7
 - id: doi:10.1126/scitranslmed.abg8027
   title: CRISPR-based gene disruption and integration of high-avidity, WT1-specific
     T cell receptors improve antitumor T cell function
@@ -255,9 +256,10 @@
   publisher: Nature Communications
   date: '2021-04-14'
   link: https://doi.org/gjw9cp
+  image: https://s3.amazonaws.com/thirdiron-assets/images/covers/2041-1723.png
   tags:
   - null
-  _cache: 76694979183ecf20d0357c0ed22f8a53a7194d598b26d0dbddfcbe07e6c8ba60
+  _cache: 378b87fb2a0377baf64eba88f3659d11a44ec9a2605bf1f5ef96fc226c11e989
 - id: doi:10.1111/imr.12944
   title: Determinants, mechanisms, and functional outcomes of myeloid cell diversity
     in cancer
@@ -271,9 +273,10 @@
   publisher: Immunological Reviews
   date: '2021-02-09'
   link: https://doi.org/gq95xz
+  image: https://onlinelibrary.wiley.com/cms/asset/41929a07-40c4-4309-b509-745883e5a35c/imr.v300.1.cover.gif
   tags:
   - null
-  _cache: d44d7f0df73beaa72e899fd6439d9aa3b0d9fc4ba1378e5fc9369963c4ac425f
+  _cache: 7c2193ae963262d416c794f3a243467d2a619d8f46b3132de6d8bc001d8075c3
 - id: doi:10.1016/j.cell.2020.10.003
   title: Co-option of Neutrophil Fates by Tissue Environments
   authors:
@@ -313,9 +316,10 @@
   publisher: Cell
   date: '2020-11-01'
   link: https://doi.org/gh9hr5
+  image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d43e6:rev:1637007920164-1489:pii:S0092867419X00252/cover.tif.jpg
   tags:
   - null
-  _cache: 34ea256190961eb1bce96eca9b813e06aa5ceb8f9277d73b6bf14dfccc93233a
+  _cache: d00206d1c23a79a7ab4d484fc9575d87e3e74062b80880f714e5b21c7eb4cbf0
 - id: doi:10.1038/s41586-019-1620-6
   title: Dynamics and genomic landscape of CD8+ T cells undergoing hepatic priming
   authors:
@@ -350,9 +354,10 @@
   publisher: Nature
   date: '2019-10-02'
   link: https://doi.org/gnfb3g
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41586/574/7777
   tags:
   - null
-  _cache: 8e4b0dffdf15c4bde00a7309237f645d251f25c6d5e429158e509ec79b20d33c
+  _cache: e472c435cc16cb3e0523b7a6126b4c7ff7b94548b252f12d0baab31b632d55af
 - id: doi:10.1038/s41590-019-0399-9
   title: Adaptation and memory in immune responses
   authors:
