@@ -1,11 +1,10 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
+- id: doi: 10.1038/s41590-022-01311-1
+  image: https://browzine.com/libraries/1778/journals/13082
+  date: 2022-10-23
   tags:
-    - knowledge graphs
+    - neutrophils
+    - myelopoiesis
+    - interferons
 
 - id: doi:10.1371/journal.pcbi.1007128
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
