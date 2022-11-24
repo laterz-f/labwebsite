@@ -14,7 +14,7 @@ We are a <b>multidisciplinary group</b> that combines <b>high-throughput and sin
 {%
   include feature.html
   image="images/research_one.png"
-  width="400px"
+  width="300px"
   title="Homeostatic and stress-induced development of the human innate immune system"
   text=text
 %}
@@ -27,12 +27,10 @@ In this project, the group uses cutting-edge genomics and single-cell transcript
 {%
   include feature.html
   image="images/research_two.png"
-  width="400px"
+  width="300px"
   title="Transcriptional control of macrophage activation in pancreatic cancer"
   text=text
 %}
 
-{% capture text %}
 The group aims to dissect how macrophage functions are affected by complex combination of environmental stimuli during homeostasis and disease, with a focus on cancer. Tumor-associated macrophages (TAM) frequently display a “mixed” polarization state characterized by concomitant pro- and anti- inflammatory activities that support, rather than suppress, tumor growth. In the lab, the aim is to define the phenotype and functions of TAM, and to develop innovative cell and gene therapy strategies to therapeutically reprogram macrophage activities.
-{% endcapture %}
 
