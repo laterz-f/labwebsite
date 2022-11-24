@@ -4,6 +4,7 @@ image: images/gb.jpeg
 description: Senior bioinformatician
 role: postdoc computational
 aliases:
+  - Giulia Barbiera
   - G. Barbiera
   - G Barbiera
 links:
