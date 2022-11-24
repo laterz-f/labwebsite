@@ -13,24 +13,29 @@
     -     
     
 - id: doi:10.1016/j.immuni.2022.05.009
+  image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d39e6:rev:1668199000706-964:pii:S1074761321X00076/cover.tif.jpg
   tags:
     - 
     
 - id: doi:10.1084/jem.20211121
+  
   tags:
     - 
 
 - id: doi:10.1126/scitranslmed.abg8027
+  image: https://www.science.org/cms/asset/91e9661f-e5fb-4291-9611-e59ecfff786f/stm.2022.14.issue-631.largecover.jpg
   tags:
     - 
     
 - id: doi:10.1016/j.immuni.2021.05.016
+  image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d87e6:rev:1628821042773-4076:pii:S1074761320X00094/cover.tif.jpg
   tags:
     - macrophages
-    - myelopoiesis
-    - gene regulation in immune cells
+    - innate immunity
+    - inflammation
 
 - id: doi:10.1016/j.celrep.2021.109143
+  image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d90e6:rev:1622253621662-6764:pii:S2211124720X00210/cover.tif.jpg
   tags:
     - 
     
@@ -40,9 +45,7 @@
    
 - id: doi:10.1111/imr.12944
   tags:
-    - neutrophils
-    - myelopoiesis
-    - gene regulation in immune cells
+    - 
     
 - id: doi:10.1016/j.cell.2020.10.003
   tags:
