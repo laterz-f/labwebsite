@@ -6,10 +6,11 @@
     - gene regulation in immune cells
     
 - id: doi:10.1126/scitranslmed.abl4106
+  image: https://www.science.org/cms/asset/bdbf6c3c-9efd-434c-bece-d1a49c891933/stm.2022.14.issue-653.largecover.jpg
   tags:
-    - neutrophils
-    - myelopoiesis
-    - gene regulation in immune cells    
+    - glioblastoma
+    - tumor microenvironment
+    -     
     
 - id: doi:10.1016/j.immuni.2022.05.009
   tags:
