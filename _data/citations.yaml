@@ -98,6 +98,81 @@
   tags:
   - null
   _cache: c5152b327693bcb1eaef99b8c52d865216aa8bbedf6e0edeaca0119b0f6b6fc2
+- id: doi:10.1084/jem.20211121
+  title: "DNA damage contributes to neurotoxic inflammation in Aicardi-Gouti\xE8res\
+    \ syndrome astrocytes"
+  authors:
+  - Anna Maria Sole Giordano
+  - Marco Luciani
+  - Francesca Gatto
+  - Monah Abou Alezz
+  - "Chiara Begh\xE8"
+  - Lucrezia Della Volpe
+  - Alessandro Migliara
+  - Sara Valsoni
+  - Marco Genua
+  - Monika Dzieciatkowska
+  - Giacomo Frati
+  - Julie Tahraoui-Bories
+  - Silvia Clara Giliani
+  - Simona Orcesi
+  - Elisa Fazzi
+  - Renato Ostuni
+  - "Angelo D\u2019Alessandro"
+  - Raffaella Di Micco
+  - Ivan Merelli
+  - Angelo Lombardo
+  - Martin A.M. Reijns
+  - Natalia Gromak
+  - Angela Gritti
+  - Anna Kajaste-Rudnitski
+  publisher: Journal of Experimental Medicine
+  date: '2022-03-09'
+  link: https://doi.org/gq97d4
+  tags:
+  - null
+  _cache: d0e9a5a53a919dd4c140d1cc14e7f85d43c6309a2708c8e80f75db0e54214842
+- id: doi:10.1126/scitranslmed.abg8027
+  title: CRISPR-based gene disruption and integration of high-avidity, WT1-specific
+    T cell receptors improve antitumor T cell function
+  authors:
+  - Eliana Ruggiero
+  - Erica Carnevale
+  - Aaron Prodeus
+  - Zulma Irene Magnani
+  - Barbara Camisa
+  - Ivan Merelli
+  - Claudia Politano
+  - Lorena Stasi
+  - Alessia Potenza
+  - Beatrice Claudia Cianciotti
+  - Francesco Manfredi
+  - Mattia Di Bono
+  - Luca Vago
+  - Michela Tassara
+  - Sara Mastaglio
+  - Maurilio Ponzoni
+  - Francesca Sanvito
+  - Dai Liu
+  - Ishina Balwani
+  - Rossella Galli
+  - Marco Genua
+  - Renato Ostuni
+  - Matteo Doglio
+  - "Daniel O\u2019Connell"
+  - Ivy Dutta
+  - Stephanie Ann Yazinski
+  - Mark McKee
+  - Mohamed Simo Arredouani
+  - Birgit Schultes
+  - Fabio Ciceri
+  - Chiara Bonini
+  publisher: Science Translational Medicine
+  date: '2022-02-09'
+  link: https://doi.org/gpfjns
+  tags:
+  - null
+  _cache: 6db97de84436fb202183e91785669ba73dd981708abb633e12a980b5be69f59b
 - id: doi:10.1016/j.immuni.2021.05.016
   title: A PGE2-MEF2A axis enables context-dependent control of inflammatory gene
     expression
@@ -127,6 +202,56 @@
   - myelopoiesis
   - gene regulation in immune cells
   _cache: 32bb5bc2fe68bb761b2030500ee0873ffbdb1e2e8687bb8c6540dccafc489a6d
+- id: doi:10.1016/j.celrep.2021.109143
+  title: Induction of OCT2 contributes to regulate the gene expression program in
+    human neutrophils activated via TLR8
+  authors:
+  - Nicola Tamassia
+  - Francisco Bianchetto-Aguilera
+  - Sara Gasperini
+  - Sara Polletti
+  - Elisa Gardiman
+  - Renato Ostuni
+  - Gioacchino Natoli
+  - Marco A. Cassatella
+  publisher: Cell Reports
+  date: '2021-05-01'
+  link: https://doi.org/gq97d5
+  tags:
+  - null
+  _cache: 2cf67cf4277cbe78fd79e793034d3f00c5bfdb074eceaf8035ee892cdcf34c8e
+- id: doi:10.1038/s41467-021-22535-z
+  title: TIM4 expression by dendritic cells mediates uptake of tumor-associated antigens
+    and anti-tumor responses
+  authors:
+  - Nicoletta Caronni
+  - Giulia Maria Piperno
+  - Francesca Simoncello
+  - Oriana Romano
+  - Simone Vodret
+  - Yuichi Yanagihashi
+  - Regine Dress
+  - Charles-Antoine Dutertre
+  - Mattia Bugatti
+  - Pierre Bourdeley
+  - Annalisa Del Prete
+  - Tiziana Schioppa
+  - Emilia Maria Cristina Mazza
+  - Licio Collavin
+  - Serena Zacchigna
+  - Renato Ostuni
+  - Pierre Guermonprez
+  - William Vermi
+  - Florent Ginhoux
+  - Silvio Bicciato
+  - Shigekatzu Nagata
+  - Federica Benvenuti
+  publisher: Nature Communications
+  date: '2021-04-14'
+  link: https://doi.org/gjw9cp
+  tags:
+  - null
+  _cache: 76694979183ecf20d0357c0ed22f8a53a7194d598b26d0dbddfcbe07e6c8ba60
 - id: doi:10.1111/imr.12944
   title: Determinants, mechanisms, and functional outcomes of myeloid cell diversity
     in cancer
