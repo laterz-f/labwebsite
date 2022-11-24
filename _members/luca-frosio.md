@@ -4,6 +4,7 @@ image: images/lf.jpeg
 description: Master Student
 role: undergrad wet
 aliases:
+  - Luca Frosio
   - L. Frosio
   - L Frosio
 links:
