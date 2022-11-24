@@ -4,6 +4,7 @@ image: images/af.jpeg
 description: Master Student
 role: undergrad wet
 aliases:
+  - Alessia Ferrandino
   - A. Ferrandino
   - A Ferrandino
 links:
