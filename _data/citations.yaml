@@ -50,12 +50,11 @@
   publisher: Nature Immunology
   date: ''
   link: https://www.nature.com/articles/s41590-022-01311-1
-  image: https://browzine.com/libraries/1778/journals/13082
   tags:
   - neutrophils
   - myelopoiesis
   - gene regulation in immune cells
-  _cache: 8e3624826c16846906bd7e811e67879afee39d874eeae3ec2ba3138f10e30e2b
+  _cache: 7a29e3c42731ee787c2b597a547768f406d29c5963f85e11abd089a68673a0af
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
