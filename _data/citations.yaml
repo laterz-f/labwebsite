@@ -50,11 +50,12 @@
   publisher: Nature Immunology
   date: '2022-10-01'
   link: https://www.nature.com/articles/s41590-022-01311-1
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41590/23/10
   tags:
   - neutrophils
   - myelopoiesis
   - gene regulation in immune cells
-  _cache: 8c72841869c0f189c43c4f2a8d0cd8f06de236ac889a659230db5b7419a3d702
+  _cache: 11b331fc18f7ae29daa280ae26097fb4dda15644d0b2ca5c03bc2cf67b5f737e
 - id: doi:10.1126/scitranslmed.abl4106
   title: Targeted inducible delivery of immunoactivating cytokines reprograms glioblastoma
     microenvironment and inhibits growth in mouse models
