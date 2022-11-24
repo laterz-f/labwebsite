@@ -55,3 +55,93 @@
   - myelopoiesis
   - gene regulation in immune cells
   _cache: 8c72841869c0f189c43c4f2a8d0cd8f06de236ac889a659230db5b7419a3d702
+- id: doi:10.1126/scitranslmed.abl4106
+  title: Targeted inducible delivery of immunoactivating cytokines reprograms glioblastoma
+    microenvironment and inhibits growth in mouse models
+  authors:
+  - Filippo Birocchi
+  - Melania Cusimano
+  - Federico Rossari
+  - Stefano Beretta
+  - Paola M. V. Rancoita
+  - Anna Ranghetti
+  - Stefano Colombo
+  - Barbara Costa
+  - Peter Angel
+  - Francesca Sanvito
+  - Marcella Callea
+  - Rossana Norata
+  - Linda Chaabane
+  - Tamara Canu
+  - Antonello Spinelli
+  - Marco Genua
+  - Renato Ostuni
+  - Ivan Merelli
+  - Nadia Coltella
+  - Luigi Naldini
+  publisher: Science Translational Medicine
+  date: '2022-07-13'
+  link: https://doi.org/gq97dc
+  tags:
+  - neutrophils
+  - myelopoiesis
+  - gene regulation in immune cells
+  _cache: c62b65fca6d2b8d174802ca0a208f3a3cd8a5c04259d4109f524689a1d96b90e
+- id: doi:10.1016/j.immuni.2022.05.009
+  title: 'Drugging inflammation: Easier NSAID than done'
+  authors:
+  - Nicoletta Caronni
+  - Renato Ostuni
+  publisher: Immunity
+  date: '2022-06-01'
+  link: https://doi.org/gq97dd
+  tags:
+  - null
+  _cache: c5152b327693bcb1eaef99b8c52d865216aa8bbedf6e0edeaca0119b0f6b6fc2
+- id: doi:10.1016/j.immuni.2021.05.016
+  title: A PGE2-MEF2A axis enables context-dependent control of inflammatory gene
+    expression
+  authors:
+  - Francesco Cilenti
+  - Giulia Barbiera
+  - Nicoletta Caronni
+  - Dario Iodice
+  - Elisa Montaldo
+  - Simona Barresi
+  - Eleonora Lusito
+  - Vincenzo Cuzzola
+  - Francesco Maria Vittoria
+  - Luca Mezzanzanica
+  - Paolo Miotto
+  - Pietro Di Lucia
+  - Dejan Lazarevic
+  - Daniela Maria Cirillo
+  - Matteo Iannacone
+  - Marco Genua
+  - Renato Ostuni
+  publisher: Immunity
+  date: '2021-08-01'
+  link: https://doi.org/gq97df
+  tags:
+  - macrophages
+  - myelopoiesis
+  - gene regulation in immune cells
+  _cache: 32bb5bc2fe68bb761b2030500ee0873ffbdb1e2e8687bb8c6540dccafc489a6d
+- id: doi:10.1111/imr.12944
+  title: Determinants, mechanisms, and functional outcomes of myeloid cell diversity
+    in cancer
+  authors:
+  - Nicoletta Caronni
+  - Elisa Montaldo
+  - Luca Mezzanzanica
+  - Francesco Cilenti
+  - Marco Genua
+  - Renato Ostuni
+  publisher: Immunological Reviews
+  date: '2021-02-09'
+  link: https://doi.org/gq95xz
+  tags:
+  - neutrophils
+  - myelopoiesis
+  - gene regulation in immune cells
+  _cache: 1627652f1dc4af609825af15b49bc3d94b81a3e97af88145fb660ee6f1ce00cc
