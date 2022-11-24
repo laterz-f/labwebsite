@@ -11,6 +11,10 @@ We are a <b>multidisciplinary group</b> that combines <b>high-throughput and sin
 
 {% include section.html %}
 
+{% capture text %}
+In this project, the group uses cutting-edge genomics and single-cell transcriptomics technologies to explore stress-induced human myelopoiesis in sets of clinical samples collected longitudinally throughout allogeneic hematopoietic stem cell (HSC) and BM transplantation procedures. This research will uncover the cellular and molecular mechanisms of immune reconstitutions after chemotherapy, with direct implications for HSC gene therapy and treatment of hematological malignancies.
+{% endcapture %}
+
 {%
   include feature.html
   image="images/research_one.png"
@@ -19,8 +23,10 @@ We are a <b>multidisciplinary group</b> that combines <b>high-throughput and sin
   text=text
 %}
 
+{% include section.html %}
+
 {% capture text %}
-In this project, the group uses cutting-edge genomics and single-cell transcriptomics technologies to explore stress-induced human myelopoiesis in sets of clinical samples collected longitudinally throughout allogeneic hematopoietic stem cell (HSC) and BM transplantation procedures. This research will uncover the cellular and molecular mechanisms of immune reconstitutions after chemotherapy, with direct implications for HSC gene therapy and treatment of hematological malignancies.
+The group aims to dissect how macrophage functions are affected by complex combination of environmental stimuli during homeostasis and disease, with a focus on cancer. Tumor-associated macrophages (TAM) frequently display a “mixed” polarization state characterized by concomitant pro- and anti- inflammatory activities that support, rather than suppress, tumor growth. In the lab, the aim is to define the phenotype and functions of TAM, and to develop innovative cell and gene therapy strategies to therapeutically reprogram macrophage activities.
 {% endcapture %}
 
 {%
@@ -31,6 +37,3 @@ In this project, the group uses cutting-edge genomics and single-cell transcript
   text=text
 %}
 
-{% capture text %}
-The group aims to dissect how macrophage functions are affected by complex combination of environmental stimuli during homeostasis and disease, with a focus on cancer. Tumor-associated macrophages (TAM) frequently display a “mixed” polarization state characterized by concomitant pro- and anti- inflammatory activities that support, rather than suppress, tumor growth. In the lab, the aim is to define the phenotype and functions of TAM, and to develop innovative cell and gene therapy strategies to therapeutically reprogram macrophage activities.
-{% endcapture %}
