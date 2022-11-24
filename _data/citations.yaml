@@ -1,7 +1,7 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1038/s41590-022-01311-1
+- id: url:https://www.nature.com/articles/s41590-022-01311-1
   title: Cellular and transcriptional dynamics of human neutrophils at steady state
     and upon stress
   authors:
@@ -49,13 +49,13 @@
   - Renato Ostuni
   publisher: Nature Immunology
   date: ''
-  link: https://doi.org/gq9zhx
+  link: https://www.nature.com/articles/s41590-022-01311-1
   image: https://browzine.com/libraries/1778/journals/13082
   tags:
   - neutrophils
   - myelopoiesis
-  - interferons
-  _cache: e7b6df4cfbd54698a7368ddfe24637a5cce2e26aec308d24a8809e55b2319a45
+  - gene regulation in immune cells
+  _cache: 8e3624826c16846906bd7e811e67879afee39d874eeae3ec2ba3138f10e30e2b
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
