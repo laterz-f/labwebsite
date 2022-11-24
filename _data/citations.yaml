@@ -83,11 +83,12 @@
   publisher: Science Translational Medicine
   date: '2022-07-13'
   link: https://doi.org/gq97dc
+  image: https://www.science.org/cms/asset/bdbf6c3c-9efd-434c-bece-d1a49c891933/stm.2022.14.issue-653.largecover.jpg
   tags:
-  - neutrophils
-  - myelopoiesis
-  - gene regulation in immune cells
-  _cache: c62b65fca6d2b8d174802ca0a208f3a3cd8a5c04259d4109f524689a1d96b90e
+  - glioblastoma
+  - tumor microenvironment
+  - null
+  _cache: f89ae9f7addb4188f5fe33abbdb301168591efbbb0f59105ad4a47d7f1434362
 - id: doi:10.1016/j.immuni.2022.05.009
   title: 'Drugging inflammation: Easier NSAID than done'
   authors:
