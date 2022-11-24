@@ -97,9 +97,10 @@
   publisher: Immunity
   date: '2022-06-01'
   link: https://doi.org/gq97dd
+  image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d39e6:rev:1668199000706-964:pii:S1074761321X00076/cover.tif.jpg
   tags:
   - null
-  _cache: c5152b327693bcb1eaef99b8c52d865216aa8bbedf6e0edeaca0119b0f6b6fc2
+  _cache: 934e874da6815d0ab53797b9c5faef7098e83393d68c84e6bba5d39f20d5d9f7
 - id: doi:10.1084/jem.20211121
   title: "DNA damage contributes to neurotoxic inflammation in Aicardi-Gouti\xE8res\
     \ syndrome astrocytes"
@@ -172,9 +173,10 @@
   publisher: Science Translational Medicine
   date: '2022-02-09'
   link: https://doi.org/gpfjns
+  image: https://www.science.org/cms/asset/91e9661f-e5fb-4291-9611-e59ecfff786f/stm.2022.14.issue-631.largecover.jpg
   tags:
   - null
-  _cache: 6db97de84436fb202183e91785669ba73dd981708abb633e12a980b5be69f59b
+  _cache: 46e69153096e6720905460e33681897be49dabc27643dafffc04af6c39a44679
 - id: doi:10.1016/j.immuni.2021.05.016
   title: A PGE2-MEF2A axis enables context-dependent control of inflammatory gene
     expression
@@ -199,11 +201,12 @@
   publisher: Immunity
   date: '2021-08-01'
   link: https://doi.org/gq97df
+  image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d87e6:rev:1628821042773-4076:pii:S1074761320X00094/cover.tif.jpg
   tags:
   - macrophages
-  - myelopoiesis
-  - gene regulation in immune cells
-  _cache: 32bb5bc2fe68bb761b2030500ee0873ffbdb1e2e8687bb8c6540dccafc489a6d
+  - innate immunity
+  - inflammation
+  _cache: 4626c067967d97bfd0bc6e6548b56cbc898baf14a7130ed03bb29a816b0c9d97
 - id: doi:10.1016/j.celrep.2021.109143
   title: Induction of OCT2 contributes to regulate the gene expression program in
     human neutrophils activated via TLR8
@@ -219,9 +222,10 @@
   publisher: Cell Reports
   date: '2021-05-01'
   link: https://doi.org/gq97d5
+  image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d90e6:rev:1622253621662-6764:pii:S2211124720X00210/cover.tif.jpg
   tags:
   - null
-  _cache: 2cf67cf4277cbe78fd79e793034d3f00c5bfdb074eceaf8035ee892cdcf34c8e
+  _cache: f292fcb37ce2ced307e2f5dc0ed10e6dfdb4115121665203358da2d8df3e2e37
 - id: doi:10.1038/s41467-021-22535-z
   title: TIM4 expression by dendritic cells mediates uptake of tumor-associated antigens
     and anti-tumor responses
@@ -268,10 +272,8 @@
   date: '2021-02-09'
   link: https://doi.org/gq95xz
   tags:
-  - neutrophils
-  - myelopoiesis
-  - gene regulation in immune cells
-  _cache: 1627652f1dc4af609825af15b49bc3d94b81a3e97af88145fb660ee6f1ce00cc
+  - null
+  _cache: d44d7f0df73beaa72e899fd6439d9aa3b0d9fc4ba1378e5fc9369963c4ac425f
 - id: doi:10.1016/j.cell.2020.10.003
   title: Co-option of Neutrophil Fates by Tissue Environments
   authors:
