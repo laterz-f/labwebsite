@@ -4,6 +4,7 @@ image: images/sb.jpeg
 description: Research Assistant
 role: assistant wet
 aliases:
+  - Simona Barresi
   - S. Barresi
   - S Barresi
 links:
