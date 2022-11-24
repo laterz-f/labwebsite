@@ -34,6 +34,7 @@ The group aims to dissect how macrophage functions are affected by complex combi
   image="images/research_two.png"
   width="300px"
   title="Transcriptional control of macrophage activation in pancreatic cancer"
+  flip=true
   text=text
 %}
 
