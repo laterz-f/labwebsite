@@ -270,3 +270,130 @@
   - myelopoiesis
   - gene regulation in immune cells
   _cache: 1627652f1dc4af609825af15b49bc3d94b81a3e97af88145fb660ee6f1ce00cc
+- id: doi:10.1016/j.cell.2020.10.003
+  title: Co-option of Neutrophil Fates by Tissue Environments
+  authors:
+  - "Iv\xE1n Ballesteros"
+  - Andrea Rubio-Ponce
+  - Marco Genua
+  - Eleonora Lusito
+  - Immanuel Kwok
+  - "Gabriel Fern\xE1ndez-Calvo"
+  - Tariq E. Khoyratty
+  - Erinke van Grinsven
+  - "Sara Gonz\xE1lez-Hern\xE1ndez"
+  - "Jos\xE9 \xC1ngel Nicol\xE1s-\xC1vila"
+  - Tommaso Vicanolo
+  - Antonio Maccataio
+  - "Alberto Bengur\xEDa"
+  - Jackson LiangYao Li
+  - "Jos\xE9 M. Adrover"
+  - Alejandra Aroca-Crevillen
+  - Juan A. Quintana
+  - "Sandra Mart\xEDn-Salamanca"
+  - Francisco Mayo
+  - Stefanie Ascher
+  - Giulia Barbiera
+  - Oliver Soehnlein
+  - Matthias Gunzer
+  - Florent Ginhoux
+  - "F\xE1tima S\xE1nchez-Cabo"
+  - "Estanislao Nistal-Vill\xE1n"
+  - Christian Schulz
+  - Ana Dopazo
+  - Christoph Reinhardt
+  - Irina A. Udalova
+  - Lai Guan Ng
+  - Renato Ostuni
+  - "Andr\xE9s Hidalgo"
+  publisher: Cell
+  date: '2020-11-01'
+  link: https://doi.org/gh9hr5
+  tags:
+  - null
+  _cache: 34ea256190961eb1bce96eca9b813e06aa5ceb8f9277d73b6bf14dfccc93233a
+- id: doi:10.1038/s41586-019-1620-6
+  title: Dynamics and genomic landscape of CD8+ T cells undergoing hepatic priming
+  authors:
+  - "Alexandre P. B\xE9n\xE9chet"
+  - Giorgia De Simone
+  - Pietro Di Lucia
+  - Francesco Cilenti
+  - Giulia Barbiera
+  - Nina Le Bert
+  - Valeria Fumagalli
+  - Eleonora Lusito
+  - Federica Moalli
+  - Valentina Bianchessi
+  - Francesco Andreata
+  - Paola Zordan
+  - Elisa Bono
+  - Leonardo Giustini
+  - Weldy V. Bonilla
+  - Camille Bleriot
+  - Kamini Kunasegaran
+  - Gloria Gonzalez-Aseguinolaza
+  - Daniel D. Pinschewer
+  - Patrick T. F. Kennedy
+  - Luigi Naldini
+  - Mirela Kuka
+  - Florent Ginhoux
+  - Alessio Cantore
+  - Antonio Bertoletti
+  - Renato Ostuni
+  - Luca G. Guidotti
+  - Matteo Iannacone
+  publisher: Nature
+  date: '2019-10-02'
+  link: https://doi.org/gnfb3g
+  tags:
+  - null
+  _cache: 8e4b0dffdf15c4bde00a7309237f645d251f25c6d5e429158e509ec79b20d33c
+- id: doi:10.1038/s41590-019-0399-9
+  title: Adaptation and memory in immune responses
+  authors:
+  - Gioacchino Natoli
+  - Renato Ostuni
+  publisher: Nature Immunology
+  date: '2019-06-18'
+  link: https://doi.org/gf4ffg
+  tags:
+  - null
+  _cache: 9080bcc822b2794469e2980ad2bf6e390a0cfdc0d0288cf88a6156c322e56192
+- id: doi:10.1038/s41577-019-0141-8
+  title: Heterogeneity of neutrophils
+  authors:
+  - Lai Guan Ng
+  - Renato Ostuni
+  - "Andr\xE9s Hidalgo"
+  publisher: Nature Reviews Immunology
+  date: '2019-02-28'
+  link: https://doi.org/ghn72n
+  tags:
+  - null
+  _cache: 7cae8118903575a2f7faa9bce16100034e9f5bc129545fb439ba1b198ac9d599
+- id: doi:10.1038/s41467-018-05315-0
+  title: Interferon gene therapy reprograms the leukemia microenvironment inducing
+    protective immunity to multiple tumor antigens
+  authors:
+  - Giulia Escobar
+  - Luigi Barbarossa
+  - Giulia Barbiera
+  - Margherita Norelli
+  - Marco Genua
+  - Anna Ranghetti
+  - Tiziana Plati
+  - Barbara Camisa
+  - Chiara Brombin
+  - Davide Cittaro
+  - Andrea Annoni
+  - Attilio Bondanza
+  - Renato Ostuni
+  - Bernhard Gentner
+  - Luigi Naldini
+  publisher: Nature Communications
+  date: '2018-07-24'
+  link: https://doi.org/gdzp65
+  tags:
+  - null
+  _cache: 3f137cb160d7dc4ed05c62cc1291d97b27cd5ec6d5bb7e917b750434b3f0bd50
