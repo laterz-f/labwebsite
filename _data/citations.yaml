@@ -1,21 +1,61 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/s41590-022-01311-1
+  title: Cellular and transcriptional dynamics of human neutrophils at steady state
+    and upon stress
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  - Elisa Montaldo
+  - Eleonora Lusito
+  - Valentina Bianchessi
+  - Nicoletta Caronni
+  - Serena Scala
+  - Luca Basso-Ricci
+  - Carla Cantaffa
+  - Alice Masserdotti
+  - Mattia Barilaro
+  - Simona Barresi
+  - Marco Genua
+  - Francesco Maria Vittoria
+  - Giulia Barbiera
+  - Dejan Lazarevic
+  - Carlo Messina
+  - Elisabetta Xue
+  - Sarah Marktel
+  - Cristina Tresoldi
+  - Raffaella Milani
+  - Paola Ronchi
+  - Salvatore Gattillo
+  - Luca Santoleri
+  - Raffaella Di Micco
+  - Andrea Ditadi
+  - Giulio Belfiori
+  - Francesca Aleotti
+  - Matteo Maria Naldini
+  - Bernhard Gentner
+  - Elisa Gardiman
+  - Nicola Tamassia
+  - Marco Antonio Cassatella
+  - "Andr\xE9s Hidalgo"
+  - Immanuel Kwok
+  - Lai Guan Ng
+  - Stefano Crippa
+  - Massimo Falconi
+  - Francesca Pettinella
+  - Patrizia Scapini
+  - Luigi Naldini
+  - Fabio Ciceri
+  - Alessandro Aiuti
+  - Renato Ostuni
+  publisher: Nature Immunology
+  date: ''
+  link: https://doi.org/gq9zhx
+  image: https://browzine.com/libraries/1778/journals/13082
   tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
+  - neutrophils
+  - myelopoiesis
+  - interferons
+  _cache: e7b6df4cfbd54698a7368ddfe24637a5cce2e26aec308d24a8809e55b2319a45
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
