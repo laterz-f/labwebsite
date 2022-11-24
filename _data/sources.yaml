@@ -1,10 +1,10 @@
-- id: doi:10.1038/s41590-022-01311-1
+- id: url:https://www.nature.com/articles/s41590-022-01311-1
   image: https://browzine.com/libraries/1778/journals/13082
   date: 2022-10-23
   tags:
     - neutrophils
     - myelopoiesis
-    - interferons
+    - gene regulation in immune cells
 
 - id: doi:10.1371/journal.pcbi.1007128
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
