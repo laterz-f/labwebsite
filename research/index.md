@@ -12,7 +12,7 @@ We are a <b>multidisciplinary group</b> that combines <b>high-throughput and sin
 {% include section.html %}
 
 {%
-  include figure.html
+  include feature.html
   image="images/research_one.png"
   width="400px"
   title="Homeostatic and stress-induced development of the human innate immune system"
@@ -25,7 +25,7 @@ In this project, the group uses cutting-edge genomics and single-cell transcript
 
 {% include section.html %}
 {%
-  include figure.html
+  include feature.html
   image="images/research_two.png"
   width="400px"
   title="Transcriptional control of macrophage activation in pancreatic cancer"
