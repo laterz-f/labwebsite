@@ -16,6 +16,7 @@ We are a <b>multidisciplinary group</b> that combines <b>high-throughput and sin
 
 {% capture text %}
 Over the years, we have revealed molecular circuits and regulatory strategies underlying innate immune cell activity. These discoveries have profound implications for cancer immunotherapy and tissue regeneration.
+
 {%
   include link.html
   link="research"
@@ -65,7 +66,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Our team is made up by people with diverse background and skills. We work in synergy to do great science (and have fun!).
+Our team is made up by people with diverse background and skills.\
+We work in synergy to do great science (and have fun!).
 
 {%
   include link.html
