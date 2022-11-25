@@ -3,29 +3,32 @@
   tags:
     - neutrophils
     - myelopoiesis
-    - gene regulation in immune cells
     
 - id: doi:10.1126/scitranslmed.abl4106
   image: https://www.science.org/cms/asset/bdbf6c3c-9efd-434c-bece-d1a49c891933/stm.2022.14.issue-653.largecover.jpg
   tags:
     - glioblastoma
     - tumor microenvironment
-    -     
+    - gene therapy  
     
 - id: doi:10.1016/j.immuni.2022.05.009
   image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d39e6:rev:1668199000706-964:pii:S1074761321X00076/cover.tif.jpg
   tags:
-    - 
+    - inflammation
+    - myeloid cells
     
 - id: doi:10.1084/jem.20211121
-  image: 
+  image: https://s3.amazonaws.com/thirdiron-assets/images/covers/2041-1723.png
   tags:
-    - 
+    - inflammation
+    - autoimmune disorder
+    - DNA damage
 
 - id: doi:10.1126/scitranslmed.abg8027
   image: https://www.science.org/cms/asset/91e9661f-e5fb-4291-9611-e59ecfff786f/stm.2022.14.issue-631.largecover.jpg
   tags:
-    - 
+    - leukemia
+    - T cells
     
 - id: doi:10.1016/j.immuni.2021.05.016
   image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d87e6:rev:1628821042773-4076:pii:S1074761320X00094/cover.tif.jpg
@@ -33,41 +36,62 @@
     - macrophages
     - innate immunity
     - inflammation
+    - epigenome
 
 - id: doi:10.1016/j.celrep.2021.109143
   image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d90e6:rev:1622253621662-6764:pii:S2211124720X00210/cover.tif.jpg
   tags:
-    - 
+    - neutrophils
+    - epigenome
     
 - id: doi:10.1038/s41467-021-22535-z
   image: https://s3.amazonaws.com/thirdiron-assets/images/covers/2041-1723.png
   tags:
-    - 
+    - dendritic cells
+    - lung adenocarcinoma
+    - T cells
    
 - id: doi:10.1111/imr.12944
   image: https://onlinelibrary.wiley.com/cms/asset/41929a07-40c4-4309-b509-745883e5a35c/imr.v300.1.cover.gif
   tags:
-    - 
+    - tumor microenvironment
+    - innate immunity
     
 - id: doi:10.1016/j.cell.2020.10.003
   image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d43e6:rev:1637007920164-1489:pii:S0092867419X00252/cover.tif.jpg
   tags:
-    - 
+    - neutrophils
+    - angiogenesis
+    - innate immunity
 
 - id: doi:10.1038/s41586-019-1620-6
   image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41586/574/7777
   tags:
-    - 
+    - T cells
+    - hbv infection
+    - macrophages
     
 - id: doi:10.1038/s41590-019-0399-9
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41590/20/7
   tags:
-    - 
-    
+    - innate immunity
+    - adaptation
+
+- id: doi:10.1038/s41591-019-0400-z
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41591/25/4
+  tags:
+    - leukemia
+    - hematopoietic stem cell transplantation
+
 - id: doi:10.1038/s41577-019-0141-8
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41577/19/4
   tags:
-    -    
+    - neutrophils
+    - innate immunity
     
 - id: doi:10.1038/s41467-018-05315-0
-  tags:
-    -   
+  tags: https://s3.amazonaws.com/thirdiron-assets/images/covers/2041-1723.png
+    - tumor microenvironment
+    - gene therapy
+    - leukemia
  
