@@ -20,3 +20,5 @@ He did postdoctoral work at the European Institute of Oncology (IEO) with Gioacc
 As of 2018, Renato Ostuni has published >20 articles in peer-reviewed journals, including papers as first/last author in Cell, Nature and Nature Immunology. Overall, his work has been cited > 2,000 times, with an H-index of 18 and IF > 250.\
 \
 He has received several prizes and awards, including an ERC Starting Grant in 2017. He is actively involved in public outreach and research dissemination projects. His research activity is supported by the Telethon Foundation, the EU (ERC and ERA-NET), Cariplo Foundation, AIRC and the Italian Ministry of Health.
+\
+He is Associate Professor of Tissue Biology at Vita-Salute San Raffaele University.
