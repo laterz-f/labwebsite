@@ -21,7 +21,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="See what we do"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{%
+  include link.html
+  link="publications"
+  text="Check out our publications"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -52,8 +59,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="resources"
+  image="images/tools.png"
+  link="tools"
   title="Our Resources"
   flip=true
   text=text
