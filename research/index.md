@@ -7,7 +7,8 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-We are a <b>multidisciplinary group</b> that combines <b>high-throughput and single-cell genomics</b>, <b>bioinformatics</b>, <b>genome engineering</b> and <b>functional studies</b> to dissect principles of immune cell development and functions. Building on relevant mouse models and uniquely available clinical samples, we aim to decipher the complex networks of signaling pathways, transcription factors, chromatin regulators and non-coding RNAs that control <b>gene expression in the innate immune system</b>.
+Ongoing research projects in the lab:
+{:center}
 
 {% include section.html %}
 
