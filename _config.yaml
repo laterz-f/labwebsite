@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: Ostuni Lab
 description:
-logo: images/gifanpr.gif
+logo: images/logo.gif
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: labwebsite
