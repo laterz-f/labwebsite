@@ -1,12 +1,12 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Our PGE2-MEF2A paper explained on JRNLclub
+  subtitle: Recorded journal club by Francesco Cilenti
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://jrnlclub.org/research-films/pge2-mef2a-inflammatory?rq=cilenti/
+  description: Francesco Cilenti illustrates the content of our Immunity paper, A PGE 2-MEF2A axis enables context-dependent control of inflammatory gene expression
   tags:
     - resource
+    - publication
 
 - title: Cool Package
   subtitle: a subtitle
