@@ -54,8 +54,7 @@
   tags:
   - neutrophils
   - myelopoiesis
-  - gene regulation in immune cells
-  _cache: 11b331fc18f7ae29daa280ae26097fb4dda15644d0b2ca5c03bc2cf67b5f737e
+  _cache: 23a7c05ca666171d3b71b2980b56b9bc80524b817ddd486f7fa23ae331978069
 - id: doi:10.1126/scitranslmed.abl4106
   title: Targeted inducible delivery of immunoactivating cytokines reprograms glioblastoma
     microenvironment and inhibits growth in mouse models
@@ -87,8 +86,8 @@
   tags:
   - glioblastoma
   - tumor microenvironment
-  - null
-  _cache: f89ae9f7addb4188f5fe33abbdb301168591efbbb0f59105ad4a47d7f1434362
+  - gene therapy
+  _cache: 3d61104863ba650a9e7a5b271b1d8720f04baf55ed29bd071abd58a8d899b21d
 - id: doi:10.1016/j.immuni.2022.05.009
   title: 'Drugging inflammation: Easier NSAID than done'
   authors:
@@ -99,8 +98,9 @@
   link: https://doi.org/gq97dd
   image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d39e6:rev:1668199000706-964:pii:S1074761321X00076/cover.tif.jpg
   tags:
-  - null
-  _cache: 934e874da6815d0ab53797b9c5faef7098e83393d68c84e6bba5d39f20d5d9f7
+  - inflammation
+  - myeloid cells
+  _cache: 49cfb798980a9656af3a53eaff8c407e26bbac085318f9f7fbe74c3d67ed9bca
 - id: doi:10.1084/jem.20211121
   title: "DNA damage contributes to neurotoxic inflammation in Aicardi-Gouti\xE8res\
     \ syndrome astrocytes"
@@ -132,10 +132,12 @@
   publisher: Journal of Experimental Medicine
   date: '2022-03-09'
   link: https://doi.org/gq97d4
-  image: null
+  image: https://s3.amazonaws.com/thirdiron-assets/images/covers/2041-1723.png
   tags:
-  - null
-  _cache: 1b4de7dad21aa2d0f1de5478716d5e613ad78453a85db2e5fdc347a3c3a2f2f7
+  - inflammation
+  - autoimmune disorder
+  - DNA damage
+  _cache: 5a9377fa10e89bf27c988d043a31a3f5c0a69f98e557a3b5409d4dfe77275075
 - id: doi:10.1126/scitranslmed.abg8027
   title: CRISPR-based gene disruption and integration of high-avidity, WT1-specific
     T cell receptors improve antitumor T cell function
@@ -176,8 +178,9 @@
   link: https://doi.org/gpfjns
   image: https://www.science.org/cms/asset/91e9661f-e5fb-4291-9611-e59ecfff786f/stm.2022.14.issue-631.largecover.jpg
   tags:
-  - null
-  _cache: 46e69153096e6720905460e33681897be49dabc27643dafffc04af6c39a44679
+  - leukemia
+  - T cells
+  _cache: 2ac25bf6db70393428739ac0c4ff6350e7cc071ef5527f406aaeb7a0c8c2b8fa
 - id: doi:10.1016/j.immuni.2021.05.016
   title: A PGE2-MEF2A axis enables context-dependent control of inflammatory gene
     expression
@@ -207,7 +210,8 @@
   - macrophages
   - innate immunity
   - inflammation
-  _cache: 4626c067967d97bfd0bc6e6548b56cbc898baf14a7130ed03bb29a816b0c9d97
+  - epigenome
+  _cache: 13e61615c3308fb8a0747759fc5880f440c463f7b08db773fc610651ab9aefd3
 - id: doi:10.1016/j.celrep.2021.109143
   title: Induction of OCT2 contributes to regulate the gene expression program in
     human neutrophils activated via TLR8
@@ -225,8 +229,9 @@
   link: https://doi.org/gq97d5
   image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d90e6:rev:1622253621662-6764:pii:S2211124720X00210/cover.tif.jpg
   tags:
-  - null
-  _cache: f292fcb37ce2ced307e2f5dc0ed10e6dfdb4115121665203358da2d8df3e2e37
+  - neutrophils
+  - epigenome
+  _cache: 4c5026d4e1ae7dccda44d6e1c4b75fe9c9522f51bccf00358f963cb133bc6865
 - id: doi:10.1038/s41467-021-22535-z
   title: TIM4 expression by dendritic cells mediates uptake of tumor-associated antigens
     and anti-tumor responses
@@ -258,8 +263,10 @@
   link: https://doi.org/gjw9cp
   image: https://s3.amazonaws.com/thirdiron-assets/images/covers/2041-1723.png
   tags:
-  - null
-  _cache: 378b87fb2a0377baf64eba88f3659d11a44ec9a2605bf1f5ef96fc226c11e989
+  - dendritic cells
+  - lung adenocarcinoma
+  - T cells
+  _cache: 85443e3659b2a575abe8f17f4a53189e66594affe9dc82e8bc2bb95fa843ff29
 - id: doi:10.1111/imr.12944
   title: Determinants, mechanisms, and functional outcomes of myeloid cell diversity
     in cancer
@@ -275,8 +282,9 @@
   link: https://doi.org/gq95xz
   image: https://onlinelibrary.wiley.com/cms/asset/41929a07-40c4-4309-b509-745883e5a35c/imr.v300.1.cover.gif
   tags:
-  - null
-  _cache: 7c2193ae963262d416c794f3a243467d2a619d8f46b3132de6d8bc001d8075c3
+  - tumor microenvironment
+  - innate immunity
+  _cache: 3e8d3d676e496b8509f0a95ee20b75adfaea5ea65d2a08c8ffca89ccf46ff2be
 - id: doi:10.1016/j.cell.2020.10.003
   title: Co-option of Neutrophil Fates by Tissue Environments
   authors:
@@ -318,8 +326,10 @@
   link: https://doi.org/gh9hr5
   image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d43e6:rev:1637007920164-1489:pii:S0092867419X00252/cover.tif.jpg
   tags:
-  - null
-  _cache: d00206d1c23a79a7ab4d484fc9575d87e3e74062b80880f714e5b21c7eb4cbf0
+  - neutrophils
+  - angiogenesis
+  - innate immunity
+  _cache: b091ca6224a353b213a992aacfcb7328e804c182c01dcd4dc9fb2238fc5dcc82
 - id: doi:10.1038/s41586-019-1620-6
   title: Dynamics and genomic landscape of CD8+ T cells undergoing hepatic priming
   authors:
@@ -356,8 +366,10 @@
   link: https://doi.org/gnfb3g
   image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41586/574/7777
   tags:
-  - null
-  _cache: e472c435cc16cb3e0523b7a6126b4c7ff7b94548b252f12d0baab31b632d55af
+  - T cells
+  - hbv infection
+  - macrophages
+  _cache: f3fa9735612e15c057be7a5dbae2f728f4f7b6dd05aaa68f0f9ad5e41ab9a138
 - id: doi:10.1038/s41590-019-0399-9
   title: Adaptation and memory in immune responses
   authors:
@@ -366,9 +378,66 @@
   publisher: Nature Immunology
   date: '2019-06-18'
   link: https://doi.org/gf4ffg
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41590/20/7
   tags:
-  - null
-  _cache: 9080bcc822b2794469e2980ad2bf6e390a0cfdc0d0288cf88a6156c322e56192
+  - innate immunity
+  - adaptation
+  _cache: 3bb229faf500daa5075983edd492287d4f0f64e2595c51be6e17485ebe39fb4b
+- id: doi:10.1038/s41591-019-0400-z
+  title: Immune signature drives leukemia escape and relapse after hematopoietic cell
+    transplantation
+  authors:
+  - Cristina Toffalori
+  - Laura Zito
+  - Valentina Gambacorta
+  - Michela Riba
+  - Giacomo Oliveira
+  - Gabriele Bucci
+  - Matteo Barcella
+  - Orietta Spinelli
+  - Raffaella Greco
+  - Lara Crucitti
+  - Nicoletta Cieri
+  - Maddalena Noviello
+  - Francesco Manfredi
+  - Elisa Montaldo
+  - Renato Ostuni
+  - Matteo M. Naldini
+  - Bernhard Gentner
+  - Miguel Waterhouse
+  - Robert Zeiser
+  - Jurgen Finke
+  - Maher Hanoun
+  - Dietrich W. Beelen
+  - Ivana Gojo
+  - Leo Luznik
+  - Masahiro Onozawa
+  - Takanori Teshima
+  - Raynier Devillier
+  - Didier Blaise
+  - Constantijn J. M. Halkes
+  - Marieke Griffioen
+  - Matteo G. Carrabba
+  - Massimo Bernardi
+  - Jacopo Peccatori
+  - Cristina Barlassina
+  - Elia Stupka
+  - Dejan Lazarevic
+  - Giovanni Tonon
+  - Alessandro Rambaldi
+  - Davide Cittaro
+  - Chiara Bonini
+  - Katharina Fleischhauer
+  - Fabio Ciceri
+  - Luca Vago
+  publisher: Nature Medicine
+  date: '2019-03-25'
+  link: https://doi.org/gfxjd5
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41591/25/4
+  tags:
+  - leukemia
+  - hematopoietic stem cell transplantation
+  _cache: 0a27360df68ba75d4a2c5d89c1f1aae909edcfb2227e4b35742f2227b776a9cd
 - id: doi:10.1038/s41577-019-0141-8
   title: Heterogeneity of neutrophils
   authors:
@@ -378,9 +447,11 @@
   publisher: Nature Reviews Immunology
   date: '2019-02-28'
   link: https://doi.org/ghn72n
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41577/19/4
   tags:
-  - null
-  _cache: 7cae8118903575a2f7faa9bce16100034e9f5bc129545fb439ba1b198ac9d599
+  - neutrophils
+  - innate immunity
+  _cache: eba8c44067847e06b6878fbd3b99b107e537bd6bd12256944305e4075b6a0b64
 - id: doi:10.1038/s41467-018-05315-0
   title: Interferon gene therapy reprograms the leukemia microenvironment inducing
     protective immunity to multiple tumor antigens
@@ -403,6 +474,6 @@
   publisher: Nature Communications
   date: '2018-07-24'
   link: https://doi.org/gdzp65
-  tags:
-  - null
-  _cache: 3f137cb160d7dc4ed05c62cc1291d97b27cd5ec6d5bb7e917b750434b3f0bd50
+  tags: https://s3.amazonaws.com/thirdiron-assets/images/covers/2041-1723.png - tumor
+    microenvironment - gene therapy - leukemia
+  _cache: 3c790c02f8fe94a09a241bc987ab04255c41a31878b64635f5186e1a3059fbb9
