@@ -8,9 +8,8 @@ aliases:
   - R. Ostuni
   - R Ostuni
 links:
-  orcid: /
-  email: /
-  twitter: /
+  email: ostuni.renato@hsr.it
+  twitter: OstuniLab
 ---
 
 add bio
