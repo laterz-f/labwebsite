@@ -66,8 +66,8 @@ Thus, computational investigation plays a critical role in our discoveries. Our 
 %}
 
 {% capture text %}
-Our team is made up by people with diverse background and skills.\
-We work in synergy to ensure an inclusive environment for producing great science and have fun! 
+Our team is made up by people with diverse background and skills.
+We work in synergy to ensure an inclusive environment for doing great science and have fun! 
 
 {%
   include link.html
