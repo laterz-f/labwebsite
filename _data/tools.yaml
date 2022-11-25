@@ -1,3 +1,13 @@
+- title: Human Neutrophils Atlas
+  subtitle: scRNA-seq data from healthy and disease conditions
+  group: featured
+  image: images/neutrophils.png
+  link: https://github.com/
+  description: Transcriptome profiling of 130,628 neutrophils from human donors
+  tags:
+    - resource
+    - dataset
+
 - title: Our PGE2-MEF2A paper explained on JRNLclub
   subtitle: Recorded journal club by Francesco Cilenti
   group: featured
@@ -7,16 +17,6 @@
   tags:
     - resource
     - publication
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/neutrophils.png
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
 
 - title: Cool Tutorial
   group: more
