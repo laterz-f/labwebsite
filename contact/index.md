@@ -20,7 +20,6 @@ We are located on the 1st floor of Dibit1.
   link="ostuni.renato@hsr.it"
   style="button"
 %}
-
 {%
   include link.html
   type="address"
