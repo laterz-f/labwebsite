@@ -10,6 +10,7 @@ aliases:
 links:
   email: ostuni.renato@hsr.it
   twitter: OstuniLab
+  linkedin: renato-ostuni
 ---
 
 Renato Ostuni obtained a PhD in Immunology with Francesca Granucci and Ivan Zanoni at the University of Milano-Bicocca. Here, he contributed to the discovery of CD14 as a key regulator of biochemical and cell biological responses of inflammatory cells to the bacterial molecule LPS (Nature 2009, Cell 2011, JCI 2012).\
