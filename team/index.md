@@ -89,7 +89,7 @@ We are constantly looking for energetic and enthusiastic individuals at all care
 Unsolicited applications are always welcome!
 {:.center}
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+{% include link.html type="email" link="ostuni.renato@hsr.it" text="Apply Now" icon="arrow-up-right-from-square" style="button" %}
 {:.center}
 
 {% include section.html %}
