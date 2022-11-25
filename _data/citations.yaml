@@ -132,12 +132,12 @@
   publisher: Journal of Experimental Medicine
   date: '2022-03-09'
   link: https://doi.org/gq97d4
-  image: https://s3.amazonaws.com/thirdiron-assets/images/covers/2041-1723.png
+  image: https://cdn.rupress.org/rup/content_public/product_images/237/hkunkel2022.jpg?Expires=1672391528&Signature=YBFgd4Rff2tBHDnRZAkM2fIXNjEQNMgaciEgODMFn52ZIYzSeYLJIm2SOJPkhA9-E5Uy~S16nAY-wSjJGFyZCZvqHGUITmHZhg210pi03N9hhZUKrZKkTrVVJGNse9r3kA8zgtYqWMFQOkab-jU1VcawqHFCnYb5YiXHRlineQkFIIPoqdqfOVg85qeDt99Zf2ccDnrvikNxidYbl8q~RrxIk5GcIoWIe5eBQkdOs5Udrc9sQLmDQxgxa3OCg~h~4lawjqUdPZdysjzZSkhoTxAsuwiw1lUlDEqGWZ5dLE9~2hyu-6dXHc4GtoxwK6d7nOzaiHcgIskEHl-O6VO2pA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - inflammation
   - autoimmune disorder
   - DNA damage
-  _cache: 5a9377fa10e89bf27c988d043a31a3f5c0a69f98e557a3b5409d4dfe77275075
+  _cache: 0dcab78e1b672a60fc1f1fa8a289223c58fcee8effe8d3556719c3a6e3b98c7b
 - id: doi:10.1126/scitranslmed.abg8027
   title: CRISPR-based gene disruption and integration of high-avidity, WT1-specific
     T cell receptors improve antitumor T cell function
@@ -474,6 +474,9 @@
   publisher: Nature Communications
   date: '2018-07-24'
   link: https://doi.org/gdzp65
-  tags: https://s3.amazonaws.com/thirdiron-assets/images/covers/2041-1723.png - tumor
-    microenvironment - gene therapy - leukemia
-  _cache: 3c790c02f8fe94a09a241bc987ab04255c41a31878b64635f5186e1a3059fbb9
+  image: https://s3.amazonaws.com/thirdiron-assets/images/covers/2041-1723.png
+  tags:
+  - tumor microenvironment
+  - gene therapy
+  - leukemia
+  _cache: 20a8f45caacaa00fc745d58692e52c2cc3232f5720896b1b3ac80a1129126c10
