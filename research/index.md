@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-microscope"></i>Research
 
 Ongoing research projects in the lab:
-{:center}
+{:.center}
 
 {% include section.html %}
 
