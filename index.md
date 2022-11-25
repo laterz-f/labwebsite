@@ -15,9 +15,7 @@ We are a <b>multidisciplinary group</b> that combines <b>high-throughput and sin
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+Over the years, we have revealed molecular circuits and regulatory strategies underlying innate immune cell activity. These discoveries have profound implications for cancer immunotherapy and tissue regeneration.
 {%
   include link.html
   link="research"
@@ -67,7 +65,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is made up by people with diverse background and skills. We work in synergy to do great science (and have fun!).
 
 {%
   include link.html
