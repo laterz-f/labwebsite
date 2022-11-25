@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is part of the [San Raffaele Telethon Institute for Gene Therapy](https://research.hsr.it/en/institutes/san-raffaele-telethon-institute-for-gene-therapy.html), at [San Raffaele Hospital](https://www.hsr.it/) in Milan.
-We are located on the 1st floor of Dibit1.
+We are located on the 1st floor of Dibit1.{:.center}
 
 {%
   include link.html
@@ -44,14 +44,14 @@ We are located on the 1st floor of Dibit1.
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/sr-tiget.jpg"
   caption="San Raffaele Telethon Institute for Gene Therapy"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/hsr.jpg"
   caption="San Raffaele Hospital"
 %}
 {% endcapture %}
