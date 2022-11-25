@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Team
+# <i class="fas fa-users"></i>People
 
 Meet the members of the Genomics of the Immune System Unit!\
 Our lab is part of the San Raffaele Telethon Institute for Gene Therapy (SR-Tiget).
