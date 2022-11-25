@@ -102,12 +102,13 @@ Our work is made possible by funding from several organizations.
 {%
   include gallery.html
   style="square"
+  width="100px"
 
   image1="images/erc.png"
   link1="https://erc.europa.eu/homepage"
   tooltip1="ERC"
 
-  image2="images/airc.jpg"
+  image2="images/airc.png"
   link2="https://www.airc.it/"
   tooltip2="AIRC Foundation"
 
@@ -115,8 +116,16 @@ Our work is made possible by funding from several organizations.
   link3="https://www.telethon.it/"
   tooltip3="Telethon Foundation"
 
-  image4="images/mur.png"
+  image4="images/mds.png"
   link4="https://www.salute.gov.it/portale/home.html/"
   tooltip4="Italian Ministry of Health"
+  
+  image5="images/Fondazione-Cariplo-1.jpg"
+  link5="https://www.fondazionecariplo.it/it/index.html"
+  tooltip5="Cariplo Foundation"
+  
+  image6="images/fuv.png"
+  link6="https://www.fondazioneveronesi.it/?gclid=CjwKCAiA7IGcBhA8EiwAFfUDsW1_IMUT5bOfagB-xI5Y3UOE1K0hr93uAIyIKVMIqyGm6cwhyov04hoCBIIQAvD_BwE"
+  tooltip6="Umberto Veronesi Foundation"
 
 %}
