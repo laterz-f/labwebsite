@@ -7,10 +7,6 @@ nav:
 
 # <i class="fas fa-feather-alt"></i>News
 
-{% include section.html %}
-
-## Follow us on Twitter
-
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
 <a class="twitter-timeline" href="https://twitter.com/OstuniLab?ref_src=twsrc%5Etfw">Tweets by OstuniLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
