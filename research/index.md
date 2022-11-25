@@ -13,7 +13,7 @@ Ongoing research projects in the lab:
 {% include section.html %}
 
 {% capture text %}
-In this project, the group uses cutting-edge genomics and single-cell transcriptomics technologies to explore stress-induced human myelopoiesis in sets of clinical samples collected longitudinally throughout allogeneic hematopoietic stem cell (HSC) and BM transplantation procedures. This research will uncover the cellular and molecular mechanisms of immune reconstitutions after chemotherapy, with direct implications for HSC gene therapy and treatment of hematological malignancies.
+In this project, the group uses cutting-edge genomics and single-cell transcriptomics technologies to explore stress-induced human myelopoiesis in sets of clinical samples collected longitudinally throughout allogeneic hematopoietic stem cell (HSC) and bone marrow transplantation procedures. This research will uncover the cellular and molecular mechanisms of immune reconstitutions after chemotherapy, with direct implications for HSC gene therapy and treatment of hematological malignancies.
 {% endcapture %}
 
 {%
