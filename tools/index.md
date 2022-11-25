@@ -7,7 +7,8 @@ nav:
 
 # <i class="fas fa-code"></i>Resources
 
-Here you can find information on our datasets, code and other materials related to our main publications.{:center}
+Here you can find information on our datasets, code and other materials related to our main publications.
+{:center}
 
 {% include search-info.html %}
 
