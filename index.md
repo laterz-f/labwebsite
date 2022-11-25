@@ -43,9 +43,8 @@ Over the years, we have revealed molecular circuits and regulatory strategies un
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+We extensively employ genome-wide profiling technologies, in particular single-cell, bulk and spatial transcriptomics and epigenomics. 
+Thus, computational investigation plays a critical role in our discoveries. Our datasets and code are publicly available.
 {%
   include link.html
   link="tools"
@@ -67,7 +66,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% capture text %}
 Our team is made up by people with diverse background and skills.\
-We work in synergy to do great science (and have fun!).
+We work in synergy to ensure an inclusive environment for producing great science and have fun! 
 
 {%
   include link.html
