@@ -18,7 +18,7 @@
     - myeloid cells
     
 - id: doi:10.1084/jem.20211121
-  image: https://s3.amazonaws.com/thirdiron-assets/images/covers/2041-1723.png
+  image: https://cdn.rupress.org/rup/content_public/product_images/237/hkunkel2022.jpg?Expires=1672391528&Signature=YBFgd4Rff2tBHDnRZAkM2fIXNjEQNMgaciEgODMFn52ZIYzSeYLJIm2SOJPkhA9-E5Uy~S16nAY-wSjJGFyZCZvqHGUITmHZhg210pi03N9hhZUKrZKkTrVVJGNse9r3kA8zgtYqWMFQOkab-jU1VcawqHFCnYb5YiXHRlineQkFIIPoqdqfOVg85qeDt99Zf2ccDnrvikNxidYbl8q~RrxIk5GcIoWIe5eBQkdOs5Udrc9sQLmDQxgxa3OCg~h~4lawjqUdPZdysjzZSkhoTxAsuwiw1lUlDEqGWZ5dLE9~2hyu-6dXHc4GtoxwK6d7nOzaiHcgIskEHl-O6VO2pA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
     - inflammation
     - autoimmune disorder
@@ -90,7 +90,8 @@
     - innate immunity
     
 - id: doi:10.1038/s41467-018-05315-0
-  tags: https://s3.amazonaws.com/thirdiron-assets/images/covers/2041-1723.png
+  image: https://s3.amazonaws.com/thirdiron-assets/images/covers/2041-1723.png
+  tags:
     - tumor microenvironment
     - gene therapy
     - leukemia
