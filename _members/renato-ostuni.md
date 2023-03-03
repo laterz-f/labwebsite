@@ -1,6 +1,6 @@
 ---
 name: Renato Ostuni
-image: images/ro.jpg
+image: images/ro.heic
 description: Principal Investigator
 role: pi
 aliases:
