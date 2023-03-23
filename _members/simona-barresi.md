@@ -1,6 +1,6 @@
 ---
 name: Simona Barresi
-image: images/sb.jpeg
+image: images/sb.jpg
 description: Research Assistant
 role: assistant wet
 aliases:
@@ -12,4 +12,5 @@ links:
   email: /
   twitter: /
 ---
-add bio
+
+
