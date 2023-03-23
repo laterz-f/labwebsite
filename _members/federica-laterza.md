@@ -1,6 +1,6 @@
 ---
 name: Federica La Terza
-image: images/flt.png
+image: images/flt.jpg
 description: PhD Student
 role: phd computational
 aliases:
