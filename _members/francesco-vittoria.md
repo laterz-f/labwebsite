@@ -1,6 +1,6 @@
 ---
 name: Francesco Vittoria
-image: images/fv.jpeg
+image: images/fv.jpg
 description: PhD Student
 role: phd wet
 aliases:
