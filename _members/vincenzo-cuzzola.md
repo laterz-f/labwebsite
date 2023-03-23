@@ -1,6 +1,6 @@
 ---
 name: Vincenzo Cuzzola
-image: images/vc.jpeg
+image: images/vc.jpg
 description: PhD Student
 role: phd wet
 aliases:
