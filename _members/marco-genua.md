@@ -1,6 +1,6 @@
 ---
 name: Marco Genua
-image: images/mg.jpeg
+image: images/mg.jpg
 description: Post-doctoral Fellow
 role: postdoc wet
 aliases:
