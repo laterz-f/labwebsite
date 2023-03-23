@@ -23,4 +23,4 @@ My group has received funding from competitive grants national agencies, includi
 \
 I love engaging in public outreach and research dissemination projects (European Researchers’ Night, Pint of Science, talks at middle and high schools, cultural and societies). I have also been live on National TV channels for the annual fundraising campaign of Telethon Foundation. As a prime example, here is my latest performance with the “Base Editors” (formerly The Kapsids), a rock band of friends and fellow scientists from SR-Tiget.\
 \
-When I’m not in the lab, I enjoy being outdoors and doing endurance sports. I am a passionate climber, mountaineer, and sky-runner. My next challenge? Running an ultra-trail race – 100 KM with >5000 m positive elevation – in Tenerife!\
+When I’m not in the lab, I enjoy being outdoors and doing endurance sports. I am a passionate climber, mountaineer, and sky-runner. My next challenge? Running an ultra-trail race – 100 KM with >5000 m positive elevation – in Tenerife!
