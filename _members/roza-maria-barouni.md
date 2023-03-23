@@ -2,7 +2,7 @@
 name: Roza Maria Barouni
 image: images/rmb.jpeg
 description: Post-doctoral Fellow
-role: Post-doctoral Researcher
+role: postdoc wet
 aliases:
   - Roza Maria Barouni
   - R. M. Barouni
