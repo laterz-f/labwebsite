@@ -69,6 +69,7 @@ Our lab is part of the San Raffaele Telethon Institute for Gene Therapy (SR-Tige
 
 | Alumni | Position in the lab | When |
 | :------------- |:-------------| :-----------|
+| Alessia Ferrandino    | Master student  | ... |
 | Elisa Montaldo    | Postdoctoral Researcher  | ... |
 | Eleonora Lusito    | Postdoctoral Researcher | ... |
 | Francesco Cilenti	   | PhD Student | ... |
