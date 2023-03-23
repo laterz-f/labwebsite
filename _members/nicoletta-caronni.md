@@ -1,6 +1,6 @@
 ---
 name: Nicoletta Caronni
-image: images/nc.jpeg
+image: images/nc.jpg
 description: Post-doctoral Fellow
 role: postdoc wet
 aliases:
